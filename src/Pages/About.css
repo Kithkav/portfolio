@@ -15,7 +15,7 @@
     margin-right: 40px;
 }
 .details span {
-    margin-bottom: 20px; 
-    display: block; 
+    margin-bottom: 20px; /*add spaces between line*/
+    display: block; /*add spaces between line*/
   }
    

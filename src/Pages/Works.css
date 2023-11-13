@@ -26,4 +26,9 @@
 }
 .repo{
     font-size: 20px;
+    margin-bottom: 30px; 
+    display: block; 
+}
+.projectLeft{
+    margin-top: 20px;
 }

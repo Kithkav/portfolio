@@ -13,11 +13,11 @@ export default function Contact() {
           <div className='box'>
         <span className='para'>I am always open to discuss your new product</span>
         <span>Name</span>
-        <input type="text" className='field'/><br/><br/>
+        <input type="text" className='field'/>
         <span>Email</span>
-        <input type='text' className='field'/><br/><br/>
+        <input type='text' className='field'/>
         <span>Message</span>
-        <textarea id="message" name="message" rows="4" cols="50" className='message'/><br/>
+        <textarea id="message" name="message" rows="4" cols="50" className='message'/>
         <button className='button'>Submit</button>
         </div>
         </div>
