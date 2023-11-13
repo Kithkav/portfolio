@@ -1,0 +1,29 @@
+.works{
+    background-color: antiquewhite;
+    height: 100%;
+}
+.petCare,.foodOrder{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.project1,.project2{
+    display: grid;
+    grid-template-columns: 40% 60%; 
+    margin: 40px;
+    margin-top: 60px;
+}
+.container{
+    background-color: rgb(174, 162, 152);
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 250px;
+}
+.text{
+    font-size: 18px;
+}
+.repo{
+    font-size: 20px;
+}

@@ -1,0 +1,25 @@
+.skillsContainer{
+    background-color: rgb(132, 142, 180);
+    height: 100%;
+}
+.angular{
+    height: 180px;
+    width: 180px;
+}
+.icon{
+    height: 180px;
+    width: 180px;
+    margin: 10px;
+} 
+.upIcon{
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.downIcon{
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

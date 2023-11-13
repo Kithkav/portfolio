@@ -1,10 +1,21 @@
 .about{
-    background-color: #3D4144;   
-    height: 690px;
+    height: 720px;
+    background-color: antiquewhite;
 }
-.h1{
-    color: white;
+.details{
+    color: #3d4440;
+    display: grid;
+    grid-template-columns: 40% 60%; 
+    font-size: 18px;
+    margin-top: 50px;
+
 }
-.h2{
-    color: white;
+.description{
+    margin-left: 40px;
+    margin-right: 40px;
 }
+.details span {
+    margin-bottom: 20px; 
+    display: block; 
+  }
+   
